@@ -32,3 +32,6 @@ VSCODE
 EJS6
 <br>
 Nodejs
+
+## Usage
+`index.html`
